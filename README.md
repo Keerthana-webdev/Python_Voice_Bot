@@ -9,6 +9,8 @@ A simple Python voice assistant that listens for your commands and performs acti
 - Opens websites using `webbrowser`
 - Interactive voice responses
 
+---
+
 ### Project Structure
 ```
 Python Voice Bot/
@@ -16,6 +18,7 @@ Python Voice Bot/
 ├── requirements.txt       # Python dependencies
 └── README.md             # Project documentation
 ```
+---
 
 ### Installation
 
@@ -53,6 +56,7 @@ Python Voice Bot/
      pip install pipwin
      pipwin install pyaudio
      ```
+---
 
 ### Usage
 Run the voice assistant from the project folder:
@@ -70,6 +74,8 @@ Speak commands like:
 - "Who are you"
 - "Stop" / "Exit" / "Quit"
 
+---
+
 ### Requirements
 - `speech_recognition` - For speech-to-text conversion
 - `pyttsx3` - For text-to-speech functionality
@@ -77,12 +83,18 @@ Speak commands like:
 - `datetime` - Built-in Python module (currently unused but imported)
 - `time` - Built-in Python module for delays
 
+---
+
 ### Notes
 - The bot uses Google speech recognition, so internet access is required for recognizing spoken commands.
 - If the microphone is not detected, verify your audio device settings.
 
+---
+
 ### Contributing
 Feel free to fork this project and add more voice commands!
+
+---
 
 ### Author
 
