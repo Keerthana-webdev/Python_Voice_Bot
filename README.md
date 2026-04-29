@@ -91,11 +91,6 @@ Speak commands like:
 
 ---
 
-### Contributing
-Feel free to fork this project and add more voice commands!
-
----
-
 ### Author
 
 #### Keerthana S
